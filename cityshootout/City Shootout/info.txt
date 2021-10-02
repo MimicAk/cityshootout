@@ -1,0 +1,16 @@
+City Shootout
+
+Description:
+The soldiers are relentlessly attacking your base! Upgrade your guns and kill the soldiers and destroy the tanks! Don't forget to kill the soldiers as early as possible because if you take more time then they will kill you.
+
+Instructions:
+Mouse = Aim and Shoot
+Key = Press 1-2-3-4-5 to change the weapons
+
+Dimensions: 600x500
+
+More great games:
+http://www.box10.com/downloads.php
+
+Contact:
+submissions@box10.com
